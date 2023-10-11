@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(179, 69, 0);
+    height: 130px;
+    text-align: center;
+}
+nav {
+    float: left;
+    width: 25%;
+    height: 300px; 
+    background: #9d0000;
+    
+}
+article {
+    float: right;
+    
+    width: 75%;
+    background-color: #017603;
+    height: 300px; 
+  }
+  footer {
+    background-color: #777;
+    padding: 130px;
+    text-align: center;
+    color: white;
+  }
